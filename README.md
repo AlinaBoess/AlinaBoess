@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Java, C#, HTML, CSS and JavaScript.
 - 🏹🎺 In my freetime I'm shooting bow and playing trumpet.
 <!--- - 💞️ I’m looking to collaborate on ... --->
-<!--- - 📫 How to reach me ... --->
+- - 📫 How to reach me: www.linkedin.com/in/alinaboess
 <!--- - 😄 Pronouns: ... --->
 <!--- - ⚡ Fun fact: ... --->
 
