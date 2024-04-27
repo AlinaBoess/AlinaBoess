@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Alina
-- 🏫 I'm studying computer science in the 1st semester.
+- 🏫 I'm studying computer science in the 2nd semester.
 - 👀 I’m interested in learning new skills and improving myself.
 - 🌱 I’m currently learning Java, C#, HTML, CSS and JavaScript.
 - 🏹🎺 In my freetime I'm shooting bow and playing trumpet.
